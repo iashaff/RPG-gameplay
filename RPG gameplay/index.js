@@ -1,5 +1,5 @@
-import {characterData} from 'data.js'
-import {Character} from 'character.js'
+import {characterData} from '/data.js'
+import {Character} from '/character.js'
 
 let monstersArray = ["orc", "demon", "goblin"];
 let btnAttack = document.getElementById('attack-button')
